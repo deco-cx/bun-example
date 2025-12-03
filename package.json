@@ -1,0 +1,11 @@
+{
+  "name": "bun-exemplo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bun run index.ts",
+    "build": "echo 'No build needed for this simple app'"
+  },
+  "dependencies": {
+    "bun": "latest"
+  }
+}
