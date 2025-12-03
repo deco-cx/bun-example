@@ -6,6 +6,8 @@ bun install
 
 To run:
 
+8y21wsbdhj
+
 
 ```bash
 bun run index.ts
