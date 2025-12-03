@@ -4,7 +4,7 @@ fetch(req) {
     const url = new URL(req.url);
     
     if (url.pathname === "/") {
-    return new Response("Hello from Bun on Kubernetes! 🚀");
+    return new Response("Hello from Bun on Kubernetes! 🚀 🦁");
     }
     
     if (url.pathname === "/_healthcheck") {
